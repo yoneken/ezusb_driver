@@ -8,8 +8,8 @@ Since Windows Vista x64, We cannot install non digitally signed driver.
 [How to install]
 
 1. Install cyusb.pfx.
-	Click 'Next', 'Next' ...
-	Password: oreore
+    Click 'Next', 'Next' ...
+    Password: oreore
 
 2. Run command prompt as administrator.
 
