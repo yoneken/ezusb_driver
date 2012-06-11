@@ -1,7 +1,7 @@
-ezusb_driver
+﻿ezusb_driver
 ============
 
-This is a Cypress EZ-USB Windows Vista/7 driver for Windows Vista/7(x64).
+This is a Cypress EZ-USB Windows driver for Windows Vista/7(x64).
 Since Windows Vista x64, We cannot install non digitally signed driver.
 
 
@@ -10,7 +10,7 @@ Since Windows Vista x64, We cannot install non digitally signed driver.
 1. Install cyusb.pfx.
 	Click 'Next', 'Next' ...
 	Password: oreore
-	
+
 2. Run command prompt as administrator.
 
 3. Type 'bcdedit /set TESTSIGNING ON'.
@@ -27,7 +27,7 @@ Since Windows Vista x64, We cannot install non digitally signed driver.
 
 [How to make a signed driver]
 
-Actually, if you have install Microsoft Visual Studio (or Windows SDK), you can sign any driver you want.
+Actually, if you have installed Microsoft Visual Studio (or Windows SDK), you can sign any driver you want.
 
 1. Get SuiteUSB from Cypress web page (http://www.cypress.com/?rID=34870).
 
